@@ -1,0 +1,8 @@
+project_id = "maori-learning-platform"
+api.url = "http://localhost:54321"
+db.host = "localhost"
+db.port = 54322
+db.name = "postgres"
+db.user = "postgres"
+db.password = "postgres"
+
